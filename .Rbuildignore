@@ -1,3 +1,4 @@
+^CRAN-RELEASE$
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.gitignore$
@@ -7,3 +8,5 @@
 ^\z_supplemental\*.csv
 ^\z_supplemental\*.R
 ^z_supplemental$
+^.package_checking.R
+^revdep
